@@ -4,7 +4,7 @@ About me:
 
 I have a degree in Finance and I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.
 
-###⚡️ A Few Quick Facts:
+### A Few Quick Facts⚡️:
 
 - 🔭 I’m currently working on Concentrix.
 - 🌱 I’m currently learning PowerBi and Machine Learning
