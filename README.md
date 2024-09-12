@@ -1,7 +1,5 @@
 ## Hi👋 I´m Evelyn
 
-About me: 
-
 I have a degree in Finance and I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.
 
 ### A Few Quick Facts⚡️:
