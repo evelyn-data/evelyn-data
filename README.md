@@ -1,7 +1,8 @@
 ## Hi👋 I´m Evelyn
 
-<!--
-**evelyn-data/evelyn-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me: 
+
+I have a degree in Finance and I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.
 
 ###⚡️ A Few Quick Facts:
 
@@ -9,7 +10,7 @@
 - 🌱 I’m currently learning PowerBi and Machine Learning
 - I enjoy working on:
    - 📊 SQL & Python
-   - Data Analyst
+   - 🖼 Data Analyst
    - 🛠 Personal Projects
 - 📫 How to reach me: evelynbhr00@agmail.com
 - 😄 Pronouns: she/her
