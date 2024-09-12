@@ -1,6 +1,6 @@
-## Hi👋 I´m Evelyn
+# Hi!👋 I’m a passionate data analyst focused on data-driven business solutions.
 
-I have a degree in Finance and I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.
+I hold a degree in Finance and Accounting with a strong foundation in data analysis💻 😃 and hands-on experience in real-world projects, ranging from optimizing marketing spend to analyzing user behavior in mobile applications. I specialize in tools and languages such as **Python, SQL, Advanced Excel, Tableau, and data visualization techniques**.
 
 ### A Few Quick Facts⚡️:
 
@@ -13,3 +13,6 @@ I have a degree in Finance and I'm a Tech Enthusiast 💻 😃 passionate about 
 - 📫 How to reach me: evelynbhr00@agmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: When I was 10 years old, I started practicing table tennis as a hobby. Then I realized it was actually a professional sport, and it became my whole life for ten years. It also provided me with a lot of competitions and a great career.
+
+
+I’m always looking for new challenges where I can combine my technical skills with my passion for data to generate valuable insights and help businesses make informed decisions.
