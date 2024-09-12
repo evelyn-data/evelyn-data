@@ -8,7 +8,7 @@ I hold a degree in Finance and Accounting with a strong foundation in data analy
 - 🌱 I’m currently learning PowerBi and Machine Learning
 - 💼 I enjoy working on:
    - 📊 SQL & Python
-   - 🖼 Data Analyst
+   - 🖼 Data Analysis
    - 🛠 Personal Projects
 - 📫 How to reach me: evelynbhr00@agmail.com
 - 😄 Pronouns: she/her
