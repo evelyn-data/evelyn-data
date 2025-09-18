@@ -1,6 +1,6 @@
 # Hi!👋 I’m a passionate data analyst focused on data-driven business solutions.
 
-I hold a degree in Finance and Accounting with a strong foundation in data analysis💻 😃 and hands-on experience in real-world projects, ranging from optimizing marketing spend to analyzing user behavior in mobile applications. I specialize in tools and languages such as **Python, SQL, Advanced Excel, Tableau, and data visualization techniques**.
+I hold a degree in Finance and Accounting with a strong foundation in data analysis💻 😃 and hands-on experience in real-world projects, ranging from optimizing marketing spend to analyzing user behavior in mobile applications. I specialize in tools and languages such as **Python, SQL, Advanced Excel, Power BI, and data visualization techniques**.
 
 ### A Few Quick Facts⚡️:
 
